@@ -1,8 +1,8 @@
-package com.hackerrank.api.controller;
+package com.Sale.api.controller;
 
-import com.hackerrank.api.exception.ElementNotFoundException;
-import com.hackerrank.api.model.Sale;
-import com.hackerrank.api.service.SaleService;
+import com.Sale.api.model.Sale;
+import com.Sale.api.service.SaleService;
+import com.Sale.api.exception.ElementNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

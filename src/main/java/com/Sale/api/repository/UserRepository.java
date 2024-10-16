@@ -1,6 +1,6 @@
-package com.hackerrank.api.repository;
+package com.Sale.api.repository;
 
-import com.hackerrank.api.model.User;
+import com.Sale.api.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface UserRepository extends JpaRepository<User, Long> {

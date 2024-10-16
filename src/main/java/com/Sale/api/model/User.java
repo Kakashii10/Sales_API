@@ -1,4 +1,4 @@
-package com.hackerrank.api.model;
+package com.Sale.api.model;
 
 import jakarta.persistence.*;
 import java.util.Collection;

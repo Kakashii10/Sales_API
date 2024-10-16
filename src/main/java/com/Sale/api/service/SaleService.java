@@ -1,6 +1,6 @@
-package com.hackerrank.api.service;
+package com.Sale.api.service;
 
-import com.hackerrank.api.model.Sale;
+import com.Sale.api.model.Sale;
 
 import java.util.List;
 

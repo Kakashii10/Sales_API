@@ -1,10 +1,10 @@
-package com.hackerrank.api.service.impl;
+package com.Sale.api.service.impl;
 
-import com.hackerrank.api.exception.BadRequestException;
-import com.hackerrank.api.exception.ElementNotFoundException;
-import com.hackerrank.api.model.Sale;
-import com.hackerrank.api.repository.SaleRepository;
-import com.hackerrank.api.service.SaleService;
+import com.Sale.api.exception.BadRequestException;
+import com.Sale.api.service.SaleService;
+import com.Sale.api.exception.ElementNotFoundException;
+import com.Sale.api.model.Sale;
+import com.Sale.api.repository.SaleRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

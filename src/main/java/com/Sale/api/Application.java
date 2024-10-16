@@ -1,7 +1,7 @@
-package com.hackerrank.api;
+package com.Sale.api;
 
-import com.hackerrank.api.model.User;
-import com.hackerrank.api.repository.UserRepository;
+import com.Sale.api.model.User;
+import com.Sale.api.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
@@ -10,8 +10,6 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
 
 @SpringBootApplication
 public class Application implements CommandLineRunner {

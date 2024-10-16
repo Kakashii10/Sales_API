@@ -1,7 +1,7 @@
-package com.hackerrank.api.controller;
+package com.Sale.api.controller;
 
+import com.Sale.api.model.Sale;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.hackerrank.api.model.Sale;
 import org.hamcrest.core.Is;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

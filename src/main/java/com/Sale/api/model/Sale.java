@@ -1,4 +1,4 @@
-package com.hackerrank.api.model;
+package com.Sale.api.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import jakarta.persistence.Entity;
