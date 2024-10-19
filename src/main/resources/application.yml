@@ -14,7 +14,7 @@ spring:
     driverClassName: org.h2.Driver
     username: sa
     password: password
- # Creates the schema automatically based on your JPA entity mappings
+
 
 #  security:
 #    user:
